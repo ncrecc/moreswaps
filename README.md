@@ -1,1 +1,1 @@
-it's more swaps! and it's good
+More Swaps is a collab mod for Dicey Dungeons that adds more equipment swapping rules
