@@ -1,0 +1,5 @@
+Name,Displayed As,Symbol,Description,External Scripts?,Stacks?,Remove at End Turn?,Remove at Start Turn?,Invisible?
+ncr_vanishall,Vanish_ALL,vanish,Duplicate dice are immediately destroyed.,NO,NO,YES,NO,NO
+ncr_vanish,Vanish,vanish,Up to <value> duplicate dice are immediately destroyed.,NO,YES,YES,NO,NO
+ncr_internalvanish,Vanish,vanish,Only used internally[;] decreases for each dice vanished.|You shouldn't be seeing this description.,NO,YES,YES,NO,YES
+ncr_vanishlegacy,Vanish,vanish,Duplicate dice are immediately destroyed.,NO,NO,YES,NO,NO

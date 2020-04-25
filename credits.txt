@@ -1,0 +1,10 @@
+mod made by:
+ncrecc (project coordination, csv maintenance, equipment design, equipment naming)
+angelmoon (csv maintenance eventually, equipment design, equipment naming)
+neypah_tit (equipment design, equipment naming)
+unsuspiciousperson (equipment deisgn, equipment naming)
+
+special thanks:
+cody (equipment name suggetions)
+who needs a username (equipment name suggestions)
+matz (alt_vanish suggestion, some day alt_vanish will exist just you wait)
