@@ -1,10 +1,13 @@
 mod made by:
-ncrecc (project coordination, csv maintenance, equipment design, equipment naming)
-angelmoon (csv maintenance eventually, equipment design, equipment naming)
-neypah_tit (equipment design, equipment naming)
-unsuspiciousperson (equipment deisgn, equipment naming)
+ncrecc (project coordination, csv maintenance, equipment design, equipment naming, fire wisp icon. contributed vanish status and preexisting vanish<>fire swap.)
+angelmoon (csv maintenance probably, equipment design, equipment naming, most rule icons. contributed preexisting weaken<>shock swap.)
+neypah_tit (equipment design, equipment naming. helped a lot in the early stages, curse<>lock and reequip<>fury<>dodge)
+unsuspiciousperson (equipment design, equipment naming. lots of work on mana<>hp and mana<>gold)
+who needs a username (equipment design, equipment naming, mod/server logo suggestion)
 
 special thanks:
-cody (equipment name suggetions)
-who needs a username (equipment name suggestions)
-matz (alt_vanish suggestion, some day alt_vanish will exist just you wait)
+cody: naming help
+matz: naming help, alt_vanish suggestion, some day alt_vanish will exist just you wait
+Green/SCP-999#9753: naming help, crazy swap icon suggestion, indirect emotional support :) very cute scip fanart pfp
+
+this is also one of the very few collaboration efforts i've tried to make with other people on the internet that actually got somewhere. i didn't even come off as an overbearing dictator
