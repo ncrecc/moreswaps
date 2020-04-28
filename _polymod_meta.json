@@ -1,8 +1,8 @@
 {
-	"title":"ncrmod",
-	"description":"Adds a bunch of equipment",
-	"author":"ncrecc",
+	"title":"More Swaps",
+	"description":"Adds more swap rules",
+	"author":"Team Swappers",
 	"api_version":"0.13.0",
-	"mod_version":"0.4.1",
+	"mod_version":"0.0.1",
 	"license":"none"
 }

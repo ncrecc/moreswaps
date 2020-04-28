@@ -198,10 +198,20 @@
     <SubTexture name="treasure" x="165" y="1949" width="124" height="98"/>
     <SubTexture name="enemies/rover_01" x="800" y="2335" width="220" height="180"/>
     <SubTexture name="enemies/rover_02" x="1021" y="2332" width="220" height="180"/>
+    <SubTexture name="enemies/sludge_01" x="1875" y="1728" width="127" height="155"/>
+    <SubTexture name="enemies/sludge_02" x="1901" y="1886" width="127" height="155"/>
     <SubTexture name="enemies/birdcracker_01" x="30" y="2083" width="150" height="160"/>
     <SubTexture name="enemies/birdcracker_02" x="185" y="2083" width="150" height="160"/>
     <SubTexture name="enemies/crystalskull_01" x="400" y="2083" width="150" height="160"/>
     <SubTexture name="enemies/crystalskull_02" x="590" y="2083" width="150" height="160"/>
-    <SubTexture name="enemies/firewisp_01" x="124" y="2340" width="94" height="162" frameX="-4" frameY="0" frameWidth="105" frameHeight="162"/>/>
-    <SubTexture name="enemies/firewisp_02" x="363" y="2332" width="101" height="160" frameX="0" frameY="0" frameWidth="105" frameHeight="162"/>
+    <SubTexture name="enemies/diceyluck_01" x="830" y="2083" width="190" height="190"/>
+    <SubTexture name="enemies/diceyluck_02" x="1045" y="2083" width="190" height="190"/>
+    <SubTexture name="enemies/hauntedcoin_01" x="1290" y="2083" width="200" height="250"/>
+    <SubTexture name="enemies/hauntedcoin_02" x="1460" y="2083" width="200" height="250"/>
+    <SubTexture name="enemies/magichat_01" x="1715" y="2070" width="190" height="190"/>
+    <SubTexture name="enemies/magichat_02" x="1890" y="2075" width="190" height="190"/>
+    <SubTexture name="enemies/liquidnitrogencan_01" x="21" y="2311" width="150" height="230"/>
+    <SubTexture name="enemies/liquidnitrogencan_02" x="185" y="2310" width="150" height="230"/>
+    <SubTexture name="enemies/firewisp_01" x="1500" y="2315" width="100" height="162" frameX="-4" frameY="0" frameWidth="105" frameHeight="162"/>/>
+    <SubTexture name="enemies/firewisp_02" x="1745" y="2308" width="101" height="160" frameX="0" frameY="0" frameWidth="105" frameHeight="162"/>
 </TextureAtlas>
