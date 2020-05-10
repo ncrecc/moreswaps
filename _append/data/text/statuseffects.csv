@@ -3,3 +3,9 @@ ncr_vanishall,Vanish_ALL,vanish,Duplicate dice are immediately destroyed.,NO,NO,
 ncr_vanish,Vanish,vanish,Up to <value> duplicate dice are immediately destroyed.,NO,YES,YES,NO,NO
 ncr_internalvanish,Vanish,vanish,Only used internally[;] decreases for each dice vanished.|You shouldn't be seeing this description.,NO,YES,YES,NO,YES
 ncr_vanishlegacy,Vanish,vanish,Duplicate dice are immediately destroyed.,NO,NO,YES,NO,NO
+ncr_cursecounter_1,Counter_1,curse,Enemy gains [curse]Curse for each 1 they|roll at the start of the turn.,NO,NO,YES,NO,NO
+ncr_cursecounter_2,Counter_2,curse,Enemy gains [curse]Curse for each 2 they|roll at the start of the turn.,NO,NO,YES,NO,NO
+ncr_cursecounter_3,Counter_3,curse,Enemy gains [curse]Curse for each 3 they|roll at the start of the turn.,NO,NO,YES,NO,NO
+ncr_cursecounter_4,Counter_4,curse,Enemy gains [curse]Curse for each 4 they|roll at the start of the turn.,NO,NO,YES,NO,NO
+ncr_cursecounter_5,Counter_5,curse,Enemy gains [curse]Curse for each 5 they|roll at the start of the turn.,NO,NO,YES,NO,NO
+ncr_cursecounter_6,Counter_6,curse,Enemy gains [curse]Curse for each 6 they|roll at the start of the turn.,NO,NO,YES,NO,NO
